@@ -18,3 +18,17 @@
 .body   {
     font-family: 'Arima', cursive;
 }
+
+.cardWelcome {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.card1 {
+    display: flex;
+    justify-content: space-between;
+    text-align: space-between;
+    margin-left: 100px;
+  
+}
