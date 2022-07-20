@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100&family=Caveat:wght@500&family=Indie+Flower&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: space-between;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.body   {
+    font-family: 'Arima', cursive;
+}
