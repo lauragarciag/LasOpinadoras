@@ -29,6 +29,23 @@
     display: flex;
     justify-content: space-between;
     text-align: space-between;
-    margin-left: 100px;
+    margin-left: 10px;
   
 }
+
+
+.colCenter {
+    border-radius: 10px;
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgCenter {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
